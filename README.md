@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Abdellatif%20AAJLI&textBg=false&fontColor=000000&fontAlign=50&desc=Full-Stack%20Developer%20from%20Morocco.&descAlign=50&descAlignY=71&fontSize=45&section=header&animation=fadeIn&reversal=false" alt="Abdellatif Aajli Image" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Abdellatif%20Aajli&textBg=false&fontColor=BA55D3&fontAlign=50&desc=Full-Stack%20Developer%20from%20Morocco.&descAlign=50&descAlignY=71&fontSize=45&section=header&animation=fadeIn&reversal=false" alt="Abdellatif Aajli Image" />
 </div>
 
 
